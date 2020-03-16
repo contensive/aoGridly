@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<Collection name="Gridly" guid="{b6e7a0b5-efbc-4ec6-8fba-833a102299e0}" system="No" updatable="Yes" blockNavigatorNode="No" onInstallAddonGuid="">
+	<HelpLink></HelpLink>
+	<Help></Help>
+	<Addon name="Gridly" guid="{0c3dbfd9-344c-41c1-a700-3f59a172272a}" type="Add-on">
+		<AsAjax>No</AsAjax>
+		<Filter>No</Filter>
+		<Icon Link="" width="50" height="50" sprites="0" />
+		<InIframe>No</InIframe>
+		<BlockEditTools>Yes</BlockEditTools>
+		<IncludeAddon name="JQuery" guid="{9C882078-0DAC-48E3-AD4B-CF2AA230DF80}"/>
+		<IsInline>No</IsInline>
+		<javascriptForceHead>Yes</javascriptForceHead>
+		<JSHeadScriptSrc><![CDATA[/gridly/javascripts/jquery.gridly.js]]></JSHeadScriptSrc>
+		<Content>No</Content>
+		<Template>No</Template>
+		<Email>No</Email>
+		<Admin>No</Admin>
+		<OnPageEndEvent>No</OnPageEndEvent>
+		<OnPageStartEvent>No</OnPageStartEvent>
+		<OnBodyStart>No</OnBodyStart>
+		<OnBodyEnd>No</OnBodyEnd>
+		<RemoteMethod>No</RemoteMethod>
+		<Diagnostic>No</Diagnostic>
+		<ProcessRunOnce>No</ProcessRunOnce>
+		<ProcessInterval>0</ProcessInterval>
+		<styleslinkhref><![CDATA[/gridly/stylesheets/jquery.gridly.css]]></styleslinkhref>
+		<Scripting Language="" EntryPoint="" Timeout="5000"/>
+	</Addon>
+	<Resource name="gridly-source.zip" type="www" path="" />
+</Collection>
