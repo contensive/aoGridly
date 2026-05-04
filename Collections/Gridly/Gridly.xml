@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<Collection name="Gridly" guid="{b6e7a0b5-efbc-4ec6-8fba-833a102299e0}" system="No" updatable="Yes" blockNavigatorNode="No" onInstallAddonGuid="">
+<Collection name="Gridly" guid="{b6e7a0b5-efbc-4ec6-8fba-833a102299e0}" system="No" updatable="Yes" blockNavigatorNode="No" onInstallAddonGuid=""
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://contensive.s3.amazonaws.com/xsd/Collection.xsd"
+>
 	<HelpLink></HelpLink>
 	<Help></Help>
 	<Addon name="Gridly" guid="{0c3dbfd9-344c-41c1-a700-3f59a172272a}" type="Add-on">
